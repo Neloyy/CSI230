@@ -43,6 +43,8 @@ if($FullTable[$i].Days -ilike "*F" ){ $Days += "Friday" }
 
 $FullTable[$i].Days = $Days
 
+
+#I wasnt sure how you were doing the FullTable in the main so I coded everything in here and have to comment or uncomment code sections for it to run properly also as a side affect it ruturns all the classes after getting the correct items at the top
 #$FullTable | Select-Object "Class Code", Instructor, Location, Days, "Time Start", "Time end"| `
 #             Where-Object{$_."Instrustor" -ilike "Furkan"}
 }
@@ -58,9 +60,9 @@ $ITSInstructors = $FullTable | Where-Object { ($_."Class Code" -like "SYS*") -or
                              | Sort-Object "Instructor" `
                              | Select-Object "Instructor" -Unique
 
-$FullTable | Where-Object { ($_.Location -ilike "JOYC 310") -and ($_.days -match "M") } | `
+$FullTable | Where-Object { ($_.Location -ilike "JOYC 310") -and ($_.days -ilike "Monday") } | `
             Sort-Object "Time Start" | `
-            Select-Object "Time Start" , "Time End", "Class Code" 
+            Select-Object "Time Start" , "Time End", "Class Code", "Location", "Days"
 $FullTable            
 #$ITSInstructors
 <#
