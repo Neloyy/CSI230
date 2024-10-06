@@ -33,15 +33,6 @@ elseif($choice -eq 4){
     $openChrome = openC
     $openChrome
     Write-Host "Opened a new tab with champlain.edu in Chrome."
-    <#
-    if (Get-Process chrome -ErrorAction SilentlyContinue) {
-        Start-Process "chrome" -ArgumentList "https://www.champlain.edu"
-        Write-Host "Opened a new tab with champlain.edu in Chrome."
-            } 
-     else {
-        Start-Process "chrome" -ArgumentList "https://www.champlain.edu"
-        Write-Host "Chrome started and navigated to champlain.edu."
-            }#>
     }
 elseif($choice -eq 5){
     Write-Host "Goodbye!"
