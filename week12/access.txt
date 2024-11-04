@@ -1,0 +1,314 @@
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[7] Quit
+
+Displaying all logs:
+10.0.17.20 - - [04/Nov/2024:09:48:03 -0500] "GET /page2.html HTTP/1.1" 200 488 "http://10.0.17.20/index.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:09:48:55 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:05:28 -0500] "GET /index.html HTTP/1.1" 200 487 "http://10.0.17.20/page1.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:05:31 -0500] "GET /index.html HTTP/1.1" 200 486 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:06:20 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:07:16 -0500] "GET / HTTP/1.1" 200 487 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:08:08 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:30:00 -0500] "GET /page1.html HTTP/1.1" 200 488 "http://10.0.17.20/index.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:30:50 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:30:57 -0500] "-" 408 0 "-" "-"
+10.0.17.38 - - [04/Nov/2024:10:31:22 -0500] "GET / HTTP/1.1" 200 487 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:22 -0500] "GET /favicon.ico HTTP/1.1" 404 488 "http://10.0.17.20/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:36 -0500] "GET /page1.html HTTP/1.1" 200 488 "http://10.0.17.20/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:38 -0500] "GET /page2.html HTTP/1.1" 200 487 "http://10.0.17.20/page1.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:40 -0500] "GET /index.html HTTP/1.1" 200 486 "http://10.0.17.20/page2.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:32:11 -0500] "GET /bin/bash HTTP/1.1" 404 489 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:32:38 -0500] "-" 408 0 "-" "-"
+10.0.17.38 - - [04/Nov/2024:10:32:38 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:33:02 -0500] "-" 408 0 "-" "-"
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+test:
+root
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+Goodbye
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+Displaying all logs:
+10.0.17.20 - - [04/Nov/2024:09:48:03 -0500] "GET /page2.html HTTP/1.1" 200 488 "http://10.0.17.20/index.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:09:48:55 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:05:28 -0500] "GET /index.html HTTP/1.1" 200 487 "http://10.0.17.20/page1.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:05:31 -0500] "GET /index.html HTTP/1.1" 200 486 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:06:20 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:07:16 -0500] "GET / HTTP/1.1" 200 487 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:08:08 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:30:00 -0500] "GET /page1.html HTTP/1.1" 200 488 "http://10.0.17.20/index.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:30:50 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:30:57 -0500] "-" 408 0 "-" "-"
+10.0.17.38 - - [04/Nov/2024:10:31:22 -0500] "GET / HTTP/1.1" 200 487 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:22 -0500] "GET /favicon.ico HTTP/1.1" 404 488 "http://10.0.17.20/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:36 -0500] "GET /page1.html HTTP/1.1" 200 488 "http://10.0.17.20/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:38 -0500] "GET /page2.html HTTP/1.1" 200 487 "http://10.0.17.20/page1.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:40 -0500] "GET /index.html HTTP/1.1" 200 486 "http://10.0.17.20/page2.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:32:11 -0500] "GET /bin/bash HTTP/1.1" 404 489 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:32:38 -0500] "-" 408 0 "-" "-"
+10.0.17.38 - - [04/Nov/2024:10:32:38 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:33:02 -0500] "-" 408 0 "-" "-"
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+Displaying all logs:
+10.0.17.20 - - [04/Nov/2024:09:48:03 -0500] "GET /page2.html HTTP/1.1" 200 488 "http://10.0.17.20/index.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:09:48:55 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:05:28 -0500] "GET /index.html HTTP/1.1" 200 487 "http://10.0.17.20/page1.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:05:31 -0500] "GET /index.html HTTP/1.1" 200 486 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:06:20 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:07:16 -0500] "GET / HTTP/1.1" 200 487 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:08:08 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:30:00 -0500] "GET /page1.html HTTP/1.1" 200 488 "http://10.0.17.20/index.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:30:50 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:30:57 -0500] "-" 408 0 "-" "-"
+10.0.17.38 - - [04/Nov/2024:10:31:22 -0500] "GET / HTTP/1.1" 200 487 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:22 -0500] "GET /favicon.ico HTTP/1.1" 404 488 "http://10.0.17.20/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:36 -0500] "GET /page1.html HTTP/1.1" 200 488 "http://10.0.17.20/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:38 -0500] "GET /page2.html HTTP/1.1" 200 487 "http://10.0.17.20/page1.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:31:40 -0500] "GET /index.html HTTP/1.1" 200 486 "http://10.0.17.20/page2.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.20 - - [04/Nov/2024:10:32:11 -0500] "GET /bin/bash HTTP/1.1" 404 489 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+10.0.17.38 - - [04/Nov/2024:10:32:38 -0500] "-" 408 0 "-" "-"
+10.0.17.38 - - [04/Nov/2024:10:32:38 -0500] "-" 408 0 "-" "-"
+10.0.17.20 - - [04/Nov/2024:10:33:02 -0500] "-" 408 0 "-" "-"
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+Goodbye
+PLease select an option:
+[1] Display all Logs
+[2] Display only IPS
+[3] Display only pages visited.
+[4] Histogram
+[5] Frequent visitors
+[6] Suspicios visistors:
+[7] Quit
+
+[H[2J[3J

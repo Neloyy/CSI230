@@ -1,0 +1,4 @@
+ect/password
+/bin/sh
+/bin/bash
+\.\./
