@@ -30,12 +30,6 @@ echo ""
 
 }
 
-# TODO - 1
-# Make a function that displays all the courses in given location
-# function dislaplays course code, course name, course days, time, instructor
-# Add function to the menu
-# Example input: JOYC 310
-# Example output: See the screenshots in canvas
 
 function displayCoursesRoom(){
 
@@ -50,12 +44,6 @@ echo ""
 }
 
 
-# TODO - 2
-# Make a function that displays all the courses that has availability
-# (seat number will be more than 0) for the given course code
-# Add function to the menu
-# Example input: SEC
-# Example output: See the screenshots in canvas
 
 function displayAvailable(){
 
@@ -110,6 +98,6 @@ do
 
 	else
 		echo "Invalid Input, try again."
-	# TODO - 3 Display a message, if an invalid input is given
+		
 	fi
 done
